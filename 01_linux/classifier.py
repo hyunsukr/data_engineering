@@ -27,6 +27,5 @@ def score_one_file(fname, model):
 files_to_score = process_stdin(sys.stdin)
 
 for fname in files_to_score:
-    print(fname)
     score_one_file(fname, model)
 
