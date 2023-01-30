@@ -6,8 +6,9 @@ model.load_from_file()
 
 
 def process_stdin(stream):
-    < PUT YOUR CODE HERE>
-
+    file_list = [line.strip() for line in stream]
+    return file_list
+    
 def score_one_file(fname, model):
     try:
         sys.stderr.write(fname)
@@ -23,9 +24,9 @@ def score_one_file(fname, model):
     except Exception as e:
         sys.stderr.write("{}\tUncaught Exception:\t{}".format(fname, e))
 
-
 files_to_score = process_stdin(sys.stdin)
 
 for fname in files_to_score:
+    print(fname)
     score_one_file(fname, model)
 
