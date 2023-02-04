@@ -1,4 +1,4 @@
-## Journaling Instructions
+### Journaling Instructions
 
 The purpose of this exercise is to track your learning and growth through this course. You will add an entry for each Module (ideally on a weekly basis). You will submit your journal over the course of the term, and it will grow with your new entries.
 
