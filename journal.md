@@ -32,3 +32,42 @@ Honestly, I felt that some of the instructions were unclear at first. I had to r
 - Which parts did you enjoy?
 
 I enjoyed the lab because it was a great refresher of the cli. Normally I only use the cli to either 1) run a script to output some data processing file or 2) build projects 3) navigate, but it was nice to see and relearn the new extraction features.
+
+## Module 2
+
+What were some things you learned in the module?
+
+- It was interesting to see how tags / and making a python library was. It is very common to install packages through pip, but actually I never done it with my functions. It was cool to see how the whole process was.
+
+What do you think were the most important concepts?
+
+- I think the most important concept in this module was learning to manipulate git. No matter how fancy of a package you make with out the procedure to set up your repo, that library will never be useable by doing pip install.
+
+- What was challenging for you? How can you learn it better?
+
+I think making the library more flexible would have been interesting. Maybe even incorporated oher packages as dependencies in the setup.py file.
+
+- Which parts did you enjoy?
+
+I enjoyed trying out the tags and actually installing/testing my package. It was a new experience for me that I found interesting.
+
+
+## Module 3
+
+What were some things you learned in the module?
+
+- Testing. Up until this point my unit tests for class/work were very static. I didn't know such decorations existed in pytest. 
+
+What do you think were the most important concepts?
+
+- How critical testing is. While I was making tests I found that instead of testing just for functionality there can be many tests that can be configured such as wrong user input/expected wrong behavior that should be accounted for.
+
+- What was challenging for you? How can you learn it better?
+
+I think creating some functions that are incorrect would have been interesting for the lab. Sometimes while making tests I find myself going back to my code. It would have been interesting if a function was incorrect and we had to try to find out way back to the logical incorrectness of a function.
+
+- Which parts did you enjoy?
+
+I really enjoyed the decorations of pytests. It was a great learning activity to get used to all the possiblities of pytest. 
+
+
