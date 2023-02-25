@@ -70,4 +70,20 @@ I think creating some functions that are incorrect would have been interesting f
 
 I really enjoyed the decorations of pytests. It was a great learning activity to get used to all the possiblities of pytest. 
 
+## Module 4
 
+What were some things you learned in the module?
+
+- Makefiles. I would do all of this by hand just for the sake of doing them. I would look at it all individually, but learning about makefiles was great for looking at all components of a project/library together.
+
+What do you think were the most important concepts?
+
+- How to organize the makefile. We focused on tests and linux and working with the CLI, but this module brings them all together.
+
+- What was challenging for you? How can you learn it better?
+
+Nothing was hard. Clear instructions helped a lot.
+
+- Which parts did you enjoy?
+
+I liked the small debugging session because it made me look at the code more deeper.
