@@ -47,9 +47,9 @@ What do you think were the most important concepts?
 
 I think making the library more flexible would have been interesting. Maybe even incorporated oher packages as dependencies in the setup.py file.
 
-- Which parts did you enjoy?
+Which parts did you enjoy?
 
-I enjoyed trying out the tags and actually installing/testing my package. It was a new experience for me that I found interesting.
+- I enjoyed trying out the tags and actually installing/testing my package. It was a new experience for me that I found interesting.
 
 
 ## Module 3
@@ -80,10 +80,172 @@ What do you think were the most important concepts?
 
 - How to organize the makefile. We focused on tests and linux and working with the CLI, but this module brings them all together.
 
-- What was challenging for you? How can you learn it better?
+What was challenging for you? How can you learn it better?
 
-Nothing was hard. Clear instructions helped a lot.
+- Nothing was hard. Clear instructions helped a lot.
 
-- Which parts did you enjoy?
+Which parts did you enjoy?
 
-I liked the small debugging session because it made me look at the code more deeper.
+- I liked the small debugging session because it made me look at the code more deeper.
+
+## Module 5
+
+What were some things you learned in the module?
+
+- This module was a great refresher or DB design and making ERs.
+
+What do you think were the most important concepts?
+
+- The thought behinding designing a DB. Most of the time people are desinging DBs just for the sake of having something to store their data, but this module was a great introduction to how DB design should really be played out during the software engineering process. 
+
+What was challenging for you? How can you learn it better?
+
+- Nothing I would say was very hard. I think it would have been better to go over many examples of designing a database to see how ER diagrams could be mapped to different scenarios. 
+
+Which parts did you enjoy?
+
+- I really liked the lab. It was nice to design a DB for a practical case. It made me really think about how much time we should put into design.
+
+## Module 6
+
+What were some things you learned in the module?
+
+- How much time it took to make a DB with data. The data for the lab took so much time to parse through and insert into the DB. It took a long time for me, which made me work more on insertting the data rather than running queries on the data. 
+
+What do you think were the most important concepts?
+
+- SQL Commands for different scenarios. The questions for the lab were very fun. The creation and loading was a different story.
+
+What was challenging for you? How can you learn it better?
+
+- Loading the data from the excel format was incredibly hard since my db design was a little different from the data found in the DB. I feel that it would have been better to either load the data or give a schema with data in that schema to load the DB. Loading the DB took way more time than actually thinking about the queries. 
+
+Which parts did you enjoy?
+
+- I liked the query section of the lab. It was fun to think about how I can accomodate the questions with my db design.
+
+## Module 7
+
+What were some things you learned in the module?
+
+- CircleCI. I would always do CICD in my jobs as a software engineer, but not really for my personal projects. It was nice to see how I can play around with circleCI for CICD with my own projects as well.
+
+What do you think were the most important concepts?
+
+- The importance of CICD and how much it can smooth out the development process. 
+
+What was challenging for you? How can you learn it better?
+
+- I think this module was structed great!
+
+Which parts did you enjoy?
+
+- I liked to experience CircleCI. It was fun to see how github can be connected to it. Will probably try it out for my own personal projects now. 
+
+## Module 7
+
+What were some things you learned in the module?
+
+- CircleCI. I would always do CICD in my jobs as a software engineer, but not really for my personal projects. It was nice to see how I can play around with circleCI for CICD with my own projects as well.
+
+What do you think were the most important concepts?
+
+- The importance of CICD and how much it can smooth out the development process. 
+
+What was challenging for you? How can you learn it better?
+
+- I think this module was structed great!
+
+Which parts did you enjoy?
+
+- I liked to experience CircleCI. It was fun to see how github can be connected to it. Will probably try it out for my own personal projects now. 
+
+## Module 8
+
+What were some things you learned in the module?
+
+- I have a love hate relationship with containers. I worked with many Cloud Providers such as AWS, Azure, and GCP. I laugh and cry with each one of them. It was nice to har about containers rather than finding out by myself through documentation and stackoverflow.
+
+What do you think were the most important concepts?
+
+- I actually think the container orchestration and discussion about cloud (aws) was the most important. With all the different Cloud Providers at the race it seemed to be the hot topic. 
+
+What was challenging for you? How can you learn it better?
+
+- I think showing examples of some key cloud providers might have been helpful in understanding containers for newcomers. I have experience in both Azure and AWS, but some people may have a hard time understanding what it means to have a container "on the cloud" would mean. 
+
+Which parts did you enjoy?
+
+- Enjoyed the discussions we had in class. I was relieved to see that some people also had original problems with containers and not shutting them off. If it was my bank account and not my companies I would be so broke. 
+
+## Module 9
+
+What were some things you learned in the module?
+
+- I've never heard of Airflow before and found it very interesting. It seemed like a good tool when doing the lab. I feel that there is definetly a learning curve to this tool,b ut am willing to investigate it further.
+
+What do you think were the most important concepts?
+
+- Since I haven't heard of this tool before, it was great to get a overall picture. I was familiar with DAG, but the relationship between DAG and me were shallow. How airflow works and DAG was the most important concept for me.
+
+What was challenging for you? How can you learn it better?
+
+- Learning the entire tool within one module seemed to be abit challenging, but after looking at what was suppose to be the lab, I was glad that it wasn't as hard as the previous semesters. 
+
+Which parts did you enjoy?
+
+- I liked the lab the most. It was a great way to get familar with the tool and not too much information thrown all at once.
+
+## Module 10
+
+What were some things you learned in the module?
+
+- I
+
+What do you think were the most important concepts?
+
+- S
+
+What was challenging for you? How can you learn it better?
+
+- L
+
+Which parts did you enjoy?
+
+- I 
+
+## Module 11
+
+What were some things you learned in the module?
+
+- I
+
+What do you think were the most important concepts?
+
+- S
+
+What was challenging for you? How can you learn it better?
+
+- L
+
+Which parts did you enjoy?
+
+- I 
+
+## Module 12
+
+What were some things you learned in the module?
+
+- I
+
+What do you think were the most important concepts?
+
+- S
+
+What was challenging for you? How can you learn it better?
+
+- L
+
+Which parts did you enjoy?
+
+- I 
