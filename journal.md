@@ -200,52 +200,52 @@ Which parts did you enjoy?
 
 What were some things you learned in the module?
 
-- I
+- The stored procedures in snowflake were very interesting to experiment with.
 
 What do you think were the most important concepts?
 
-- S
+- Utilizing snowflake and exploring the versatility of snowflake.
 
 What was challenging for you? How can you learn it better?
 
-- L
+- Unironically, converting to the classic UI. There were also some challenges in the syntax for javascript and python within the snowflake stored procedure. However, that could be overcome by the documentation.
 
 Which parts did you enjoy?
 
-- I 
+- I liked writting the procedures. It was interesting to experiment with different languages within snowflake.
 
 ## Module 11
 
 What were some things you learned in the module?
 
-- I
+- The entirety of DBT. I've actually never heard about it or used it before. It was interesting tool to learn about and it tied in well with the previous module. 
 
 What do you think were the most important concepts?
 
-- S
+- Just getting familiary with the tool itself. The use cases and how it can be configured. The lab helped a lot by actually letting us step through the cycle from the beginning.
 
 What was challenging for you? How can you learn it better?
 
-- L
+- The snowflake configuration changes that needed to be done in order for the communication to take place between dbt and snowflake. It might have been better to focus more on why the changes in the user roles are needed for the tool to run. 
 
 Which parts did you enjoy?
 
-- I 
+- The lab since it gave a good example of how dbt can be used. 
 
 ## Module 12
 
 What were some things you learned in the module?
 
-- I
+- The realization that all software will degrade. Development never stops and nothing will be considered "done".
 
 What do you think were the most important concepts?
 
-- S
+- The introduction that software will never be done. There are always cases where versions will be degraded/ hardware degradation/ etc. Finding a solution to something doesn't mean that solution will persist forever. You may even run into cases where monitoring will show that an update will be required as well. 
 
 What was challenging for you? How can you learn it better?
 
-- L
+- There was no lab so no major challenges. 
 
 Which parts did you enjoy?
 
-- I 
+- The lecture. It was a good closing lecture since almost all our labs and learnings were so intertwined with versioning. 
